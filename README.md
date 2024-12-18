@@ -1,4 +1,4 @@
-# The Rice (Kris Yotam <https://khr1st.vercel.app>'s dotfiles)
+# The Rice [Kris Yotam's](https://khr1st.vercel.app) dotfiles
 
 These are the dotfiles deployed by [Kristoo](https://kristoo.vercel.app) and as seen on
 [my YouTube channel](https://youtube.com/c/krisyotam).
