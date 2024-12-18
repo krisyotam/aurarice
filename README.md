@@ -27,6 +27,7 @@ These dotfiles are intended to go with numerous suckless programs I use:
 - [dwm](https://github.com/krisyotam/dwm) (window manager)
 - [dwmblocks](https://github.com/krisyotam/dwmblocks) (statusbar)
 - [st](https://github.com/krisyotam/st) (terminal emulator)
+- [surf](https://github.com/krisyotam/surf) (web-browser) - coming soon
 
 I also recommend trying out
 [mutt-wizard](https://github.com/krisyotam/mutt-wizard), which additionally
